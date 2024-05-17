@@ -1,4 +1,4 @@
-<h3> Hey there👋! I'm Mahfouth Hasnaoui</h2>
+<h3> Hey there👋! I'm Mahfoudh Hasnaoui</h2>
 <h2> Currently working as a Data Engineer </h2>
 
 ## 👨🏻‍💻 &nbsp;About Me 
